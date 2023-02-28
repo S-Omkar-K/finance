@@ -9,5 +9,6 @@
     ##### esg-and-impact-investing                          - All work produced during the course     .xlsx
     
   #### side-projects:
-
+    ##### equity-research                                   - Equity analysis work, Morningstar type analyst report     .xlsx
+    ##### financial-modeling                                - Financial Modeling work                                   .xlsx
     
